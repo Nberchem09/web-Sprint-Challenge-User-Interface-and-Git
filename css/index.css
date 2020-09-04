@@ -70,6 +70,27 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+header{
+    margin: 2%;
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+    padding: 0 5.7%;
+    
+}
+.navbar{
+    display: flex;
+    align-items: baseline;
+    margin: 0 2% 4% 0;
+    padding: 0 20%;
+}
+nav{
+    display: inline-block;
+    width: 100%;
+}
 
 .top-content {
     display: flex;
